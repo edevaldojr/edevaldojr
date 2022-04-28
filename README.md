@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edevaldojr&label=Profile%20views&color=0e75b6&style=flat" alt="edevaldojr" /> </p>
 <p align="center">
- 🌱 Estou atualmente aprendendo Java, Python, Dart, HTML5, CSS3, JavaScript, PHP, MySQL
+ 🌱 Estou atualmente me especializando em Java, Spring Boot e Angular
 </p>
 <p align="center">
  📫 Como me encontrar: **e.j.2001@hotmail.com** 
