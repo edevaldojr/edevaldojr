@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edevaldojr&label=Profile%20views&color=0e75b6&style=flat" alt="edevaldojr" /> </p>
 
-  - 🌱Possuo experiência em **Spring Boot, Angular, Java, TypeScript, HTML5, CSS3, MySQL, MongoDBL**
+  - 💻 Possuo experiência em **Spring Boot, Angular, Java, TypeScript, HTML5, CSS3, MySQL, MongoDBL**
 
   - 👨‍💻 Todos os meu projetos aqui [https://github.com/edevaldojr](https://github.com/edevaldojr)
 
@@ -51,14 +51,14 @@
   
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edevaldojr&show_icons=true&theme=dark&locale=en&layout=compact" alt="edevaldojr" />
 </p>
 
-<p>&nbsp;
+<p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edevaldojr&show_icons=true&theme=dark&locale=en" alt="edevaldojr" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edevaldojr&theme=dark" alt="edevaldojr" />
 </p>
