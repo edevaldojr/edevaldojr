@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edevaldojr&label=Profile%20views&color=0e75b6&style=flat" alt="edevaldojr" /> </p>
 
-  - 💻 Possuo experiência em **Spring Boot, Angular, Java, TypeScript, HTML5, CSS3, MySQL, MongoDBL**
+  - 💻 Possuo experiência em **Spring Boot, Angular, Java, TypeScript, HTML5, CSS3, MySQL, MongoDB**
 
   - 👨‍💻 Todos os meu projetos aqui [https://github.com/edevaldojr](https://github.com/edevaldojr)
 
