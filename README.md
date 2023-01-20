@@ -7,7 +7,7 @@
 
   - 👨‍💻 Todos os meu projetos aqui [https://github.com/edevaldojr](https://github.com/edevaldojr)
 
-  - 📫 Como me encontrar: **e.j.2001@hotmail.com**
+  - 📫 Como me encontrar: **edevaldo.dev@outlook.com**
 
   <h3 align="center">Se conecte comigo:</h3>
   <p align="center">
